@@ -1,0 +1,51 @@
+task,pic,is_social,is_incongruent,novel_side,anomaly_x1,anomaly_y1,anomaly_x2,anomaly_y2,notes
+2,0,yes,,,,,,,
+2,1,no,,,,,,,
+2,2,yes,,,,,,,
+2,3,no,,,,,,,
+2,4,yes,,,,,,,
+2,5,no,,,,,,,
+2,6,yes,,,,,,,
+2,7,no,,,,,,,
+2,8,yes,,,,,,,
+2,9,no,,,,,,,
+3,0,,yes,,623,58,960,348,
+3,1,,no,,,,,,
+3,2,,yes,,785,338,1007,545,
+3,3,,no,,,,,,
+3,4,,yes,,518,566,980,683,
+3,5,,no,,,,,,
+3,6,,yes,,560,556,915,876,
+3,7,,no,,,,,,
+3,8,,yes,,213,388,1189,907,
+3,9,,no,,,,,,
+4,0,,,right,,,,,social always right
+4,1,,,right,,,,,social always right
+4,2,,,right,,,,,social always right
+4,3,,,right,,,,,social always right
+4,4,,,right,,,,,social always right
+4,5,,,right,,,,,social always right
+4,6,,,right,,,,,social always right
+4,7,,,right,,,,,social always right
+4,8,,,right,,,,,social always right
+4,9,,,right,,,,,social always right
+6,0,,no,,,,,,
+6,1,,no,,,,,,
+6,2,,no,,,,,,
+6,3,,yes,,,,,,
+6,4,,yes,,,,,,
+6,5,,no,,,,,,
+6,6,,yes,,,,,,
+6,7,,no,,,,,,
+6,8,,no,,,,,,
+6,9,,yes,,,,,,
+7,0,,,left,,,,,
+7,1,,,right,,,,,
+7,2,,,right,,,,,
+7,3,,,left,,,,,
+7,4,,,left,,,,,
+7,5,,,right,,,,,
+7,6,,,left,,,,,
+7,7,,,right,,,,,
+7,8,,,left,,,,,
+7,9,,,right,,,,,
